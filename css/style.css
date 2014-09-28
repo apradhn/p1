@@ -32,3 +32,16 @@ p {
 .project, .subtitle {
 	color: #6C7A89;
 }
+
+.project {
+	text-align: center;
+}
+
+a {
+	color: #CD5C5C;
+	text-decoration: none;
+}
+
+a:hover, a:focus, a:active {
+	color: #963939;
+}
