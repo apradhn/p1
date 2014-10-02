@@ -25,6 +25,11 @@ h2 {
 	text-align: center;
 }
 
+.view-links {
+	background-color: #DADFE1;
+	border-radius: 5px;
+}
+
 p {
 	font-size: 16px;
 }
